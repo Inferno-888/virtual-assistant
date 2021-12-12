@@ -1,2 +1,2 @@
 # virtual-assistant
-This is a very simple Python virtual assistant coded to be able to respond to a number of different demands and accomplish a variety of simple tasks.
+This is a very simple Python virtual assistant coded to be able to respond to a number of different demands and accomplish a variety of simple tasks. I have also attached all the different version of the pyaudio files that I could find. One of those files (depending on the version of your system, etc.) is going to be used in order to make the assistant able to respond to the user in audio format.
